@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Bernd O",
+    "student_id": "123",
+    "major": "Computer Science",
+    "year": "2021"
+  },
+  {
+    "name": "Oheneba Dade",
+    "student_id": "940",
+    "major": "Business Administration",
+    "year": "2022"
+  },
+  {
+    "name": "Frances Awuah",
+    "student_id": "234",
+    "year": "2025",
+    "major": "Computer Engineering"
+  },
+  {
+    "major": "Computer Science",
+    "name": "Omar Noname",
+    "student_id": "831",
+    "year": "2022"
+  }
+]

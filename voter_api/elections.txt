@@ -1,0 +1,17 @@
+[
+  {
+    "election_id": "1",
+    "year": "2024",
+    "date": "25th February 2022",
+    "time": "9:00am",
+    "candidates": "{'1':'Kwesi Jackson', '2':'Amanda Walsh'}",
+    "votes": {
+      "2": 0,
+      "1": 2
+    },
+    "students_voted": [
+      "234",
+      "123"
+    ]
+  }
+]
